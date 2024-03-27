@@ -49,15 +49,10 @@
 
 - 証拠動画: [著作権違反に対する証拠動画](https://youtu.be/aiMoPjpAOXo)
 
-## ライセンス
-
-このプロジェクトは[MIT License](LICENSEファイルへのリンク)の下で公開されています。
-
-
 ## 貢献方法
 
 このプロジェクトへの貢献や改善提案がある場合は、[Issueを作成](https://github.com/superdoccimo/4000/issues)するか、[Pull Request](https://github.com/superdoccimo/4000/pulls)を送ってください。
 
 ## ライセンス
 
-このプロジェクトは[MIT License](https://github.com/superdoccimo/4000/LICENSE)の下で公開されています。
+このプロジェクトは[MIT License](https://github.com/superdoccimo/4000/blob/main/LICENSE)の下で公開されています。
