@@ -47,7 +47,7 @@
 
 - 不正な動画そのもの: [著作権違反動画](https://youtu.be/d_UyhCcYRVY)
 
-- 不正な動画そのもの: [著作権違反動画](https://nextcloud.showa.xyz/index.php/s/s5my8CH6fkPWJM2)
+- 不正な動画そのもの: [著作権違反動画](https://nextcloud.minokamo.xyz/index.php/s/s5my8CH6fkPWJM2)
 
 これらの行為は、創作物の著作権を侵害するものであり、厳しく対処する必要があります。もし、これらの動画が不適切であると考える場合は、YouTubeの報告機能を使用してください。
 
