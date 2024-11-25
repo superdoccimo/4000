@@ -41,9 +41,7 @@
 
 以下のリンクは、私の作成物を無断で使用し、自作のように振る舞っている例です。これらは著作権違反行為であり、公正な利用を阻害しています。
 
-- 不正な動画、チャンネル: [著作権違反の例](https://www.youtube.com/@toushika_byun)
-
-- 不正な動画、チャンネル: [著作権違反の例](https://www.youtube.com/@toushika_byun14)
+- 不正な動画、チャンネル: [著作権違反の例](https://www.youtube.com/@kabu_data_byun)
 
 - 不正な動画そのもの: [著作権違反動画](https://youtu.be/d_UyhCcYRVY)
 
